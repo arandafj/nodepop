@@ -1,0 +1,29 @@
+{
+  "es": {
+    "INVALID_TOKEN": "Token no válido.",
+    "USER_NOT_FOUND": "Usuario no encontrado.",
+    "AUTH_FAIL": "Autenticación fallida. Contraseña incorrecta.",
+    "UNKNOWN": "Error desconocido.",
+    "NO_TOKEN": "Token no encontrado.",
+    "NAME_REQUIRED": "Nombre usuario es requerido.",
+    "EMAIL_REQUIRED": "Email es requerido.",
+    "PASSWORD_REQUIRED": "Contraseña es requerida.",
+    "TOKENPUSH_REQUIRED": "Tokenpush es requerido.",
+    "PLATFORM_REQUIRED": "Plataforma es requerida.",
+    "INVALID_PLATFORM": "Plataforma no válida."
+  },
+  "en": {
+    "INVALID_TOKEN": "Token invalid.",
+    "USER_NOT_FOUND": "User not found.",
+    "AUTH_FAIL": "Authentication failed. Wrong password.",
+    "UNKNOWN": "Unknown error.",
+    "NO_TOKEN": "Token not found.",
+    "NAME_REQUIRED": "User name is required.",
+    "EMAIL_REQUIRED": "Email is required.",
+    "PASSWORD_REQUIRED": "Password is required.",
+    "TOKENPUSH_REQUIRED": "Tokenpush is required.",
+    "PLATFORM_REQUIRED": "Platform is required.",
+    "INVALID_PLATFORM": "Platform invalid."
+  }
+}
+
