@@ -4,7 +4,8 @@
 
 - Contenido a través de IP http://23.23.33.66 ó a través de dominio http://fjaranda.com
 
-- Ficheros estáticos (imágenes):
+- Ficheros estáticos:
+
 http://ec2-23-23-33-66.compute-1.amazonaws.com/images/anuncios/bici.jpg
 http://ec2-23-23-33-66.compute-1.amazonaws.com/images/anuncios/iphone.png
 
