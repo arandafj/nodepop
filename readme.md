@@ -1,8 +1,13 @@
-# Despliegue DevOps
-Para realizar la práctica del *módulo DevOps* se ha desplegado la aplicación en una instancia de AWS. La url es: http://
-ec2-23-23-33-66.compute-1.amazonaws.com 
-Para entrar directamente la ip es 23.23.33.66 
-Mi app en local funciona bien, pero en AWS hay algunos servicios que no funcionan correctamente.  Por lo que he optado por desplegar la app de Javier https://bitbucket.org/agbo/agbo-master-nodejs-practica 
+# DevOps
+- Para realizar la práctica del *módulo DevOps* se ha desplegado la aplicación en una instancia de AWS. La Url es:
+  http://ec2-23-23-33-66.compute-1.amazonaws.com 
+
+- Contenido a través de IP http://23.23.33.66 ó a través de dominio http://fjaranda.com
+
+- Ficheros estáticos (imágenes):
+http://ec2-23-23-33-66.compute-1.amazonaws.com/images/anuncios/bici.jpg
+http://ec2-23-23-33-66.compute-1.amazonaws.com/images/anuncios/iphone.png
+
 
 #nodepop
 
